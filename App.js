@@ -75,13 +75,4 @@ const styles = StyleSheet.create({
   goalContainer: {
     flex: 4,
   },
-  listElement: {
-    margin: 8,
-    borderRadius: 6,
-    backgroundColor: "#5e0acc",
-    padding: 8,
-  },
-  goalText: {
-    color: "white",
-  },
 });
